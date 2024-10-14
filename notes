@@ -1,0 +1,13 @@
+*Python- can be used on a server to create web applications.
+*Python- Is a versatile and beginner friendly programming language widely used in web development
+*To run a Python: python hello.py
+
+*Basic data types: Floating-point number represent numbers with decimals.
+*String- represent sequence of characters enclosed in qoutes.
+*Boolean- represent one/two values(true or false)
+
+->Compound Data Types.
+*List-Collection of items that can contain elements of different data types. 
+*Tuple-List but tuples immutable meaning once they are created they  cannot be changed.
+*Dictionary(dict)-
+*
