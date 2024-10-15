@@ -9,5 +9,18 @@
 ->Compound Data Types.
 *List-Collection of items that can contain elements of different data types. 
 *Tuple-List but tuples immutable meaning once they are created they  cannot be changed.
-*Dictionary(dict)-
+*Dictionary(dict)-A collection of key-values pairs.Values can be of any data
+*Set-An unordered collection of unique elements.
+
+->Ttpe Conversion.
+*Implicit-python automatically converts one data type to another when necessary.
+Adding an Integer to a float results in a Float.
+*Explicit-You can manually convert one data type to another using functions.
+
+->Operators and Expressions.
+*Operators-are symbols in python that perform operations on variables and values.
+*Expressions-is a combination of values, variablbles and operators THAT python interprets & evaluates to produce a result.
+Example: 2+3 is an expression that evaluates to 5
+
+
 *
