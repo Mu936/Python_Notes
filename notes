@@ -22,5 +22,22 @@ Adding an Integer to a float results in a Float.
 *Expressions-is a combination of values, variablbles and operators THAT python interprets & evaluates to produce a result.
 Example: 2+3 is an expression that evaluates to 5
 
+-> Control Structure(if-else/loops).
 
-*
+*Conditional Structure- if else.
+ -if statement:execute block of code if the condition is TRUE.
+ -Else if(elif)statement:checks another condition if the PREVIOUS condition was false.
+ -Else:Execute a block of code if ALL previous were false.
+
+*Loops-Loops allow you to repeat of block of multiple times: ( For loops/ While loops)
+ -For loop:Iterate over a sequence  and execute a block of code for each item in the sequence.
+ -While loop: repeat a block of code as long as a condition is true.
+
+->COMBINING IF-ELSE WITH LOOPS.
+ -
+ -
+->FUNCTIONS AND MODULES
+
+
+
+
