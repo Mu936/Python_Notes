@@ -36,7 +36,13 @@ Example: 2+3 is an expression that evaluates to 5
 ->COMBINING IF-ELSE WITH LOOPS.
  -
  -
-->FUNCTIONS AND MODULES
+->FUNCTIONS AND MODULES.
+*FUNCTIONS.
+ -Functions:are block of code that perform a specefic task.
+ -they allow you to break down your code into smaller manageable pieces.
+ -
+*MODULES.
+ -Modules are files that contain Python codes.
 
 
 
