@@ -1,0 +1,1 @@
+My NOTES FOR pYTHON_COURSE AT capaciti
